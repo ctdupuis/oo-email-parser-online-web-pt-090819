@@ -9,5 +9,7 @@ class EmailParser
     @csv_emails = csv_emails
   end
   
-  def self.parse(csv_emails)
+  def parse(csv_emails)
+    
+  end
 end
